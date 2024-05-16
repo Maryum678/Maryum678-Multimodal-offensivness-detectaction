@@ -1,5 +1,5 @@
 # Multimodal-offensivness-detectaction
-** Description**
+## Description
 Memes are an important part of online culture, it usually consists of images or videos
 with humor or text that can spread quickly through comments. However, it can present
 false information, negative words and questionable content, which can lead to serious
