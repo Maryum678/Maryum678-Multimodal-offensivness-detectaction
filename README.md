@@ -14,3 +14,9 @@ necessity of offensive detection, which is why in this suggested method, we extr
 features using the BERT Model and extract images features using Resnet-50. Addition-
 ally, we concatenate the features from both sides using Feature Concatenation, which
 produce results for the detection of different offensive classes.
+
+## Dataset links 
+#### Memotion dataset
+https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k
+#### Met-meme
+https://www.kaggle.com/datasets/liaolianfoka/met-meme
